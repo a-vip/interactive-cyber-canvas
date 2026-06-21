@@ -5,7 +5,7 @@
 
 ### [✨ CLICK HERE TO VIEW LIVE INTERACTIVE DEMONSTRATION ✨](https://htmlpreview.github.io/?https://github.com/a-vip/interactive-cyber-canvas/blob/master/index.html)
 
-![Interactive Cyber Canvas Demo Recording](./demo.webp)
+[![Interactive Cyber Canvas Demo Recording](./preview.png)](https://htmlpreview.github.io/?https://github.com/a-vip/interactive-cyber-canvas/blob/master/index.html)
 
 A high-performance, lightweight **Interactive Neural Network Cyber Animation** built entirely in vanilla JavaScript and HTML5 Canvas. Perfect for AI startups, cybersecurity landing pages, international policy dashboards, or any premium technology website looking for an immersive, modern aesthetic without the heavy load of external libraries like Three.js.
 
